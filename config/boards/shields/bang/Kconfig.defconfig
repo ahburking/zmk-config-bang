@@ -1,0 +1,6 @@
+if SHIELD_BANG
+
+config ZMK_KEYBOARD_NAME
+    default "bang"
+
+endif
